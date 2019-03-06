@@ -14,4 +14,4 @@ yarn start -- to start local development server
 yarn add react-router-dom -- To add react router to the application
 
 ## Screenshots
-![](src/RoutingWithReact.png)
+![](src/RoutingWithReact1.png)
