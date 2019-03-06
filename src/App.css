@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+nav ul li{
+  list-style-type: none;
+}
+nav ul li a{
+  color: #fff;
+}
+nav ul li a:active{
+  color: #fff;
+}
+nav ul li a:focus{
+  color: #red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
